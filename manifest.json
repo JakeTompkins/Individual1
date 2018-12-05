@@ -1,0 +1,10 @@
+{
+    "name": "Individual 1",
+    "version": "1.0",
+    "description": "Change all occurences of Donald Trump's name to 'Individual 1'",
+    "permissions": ["activeTab"],
+    "icons": {
+        "128": "icon.png"
+    },
+    "manifest_version": 2
+}
